@@ -76,9 +76,9 @@ $ docker run --rm -it htrtech/zphisher
 <img src=".imgs/wf.gif"/>
 </p>
 
-### Special Thanks :
+### my social medias :
 
-- [**Aditya Shakya**](https://github.com/adi1090x)
+- [**instagram**](https://www.instagram.com/ardithc_)
 - [**TheLinuxChoice**](https://twitter.com/linux_choice)
 - [**DarksecDevelopers**](https://github.com/DarksecDevelopers)
 - [**Moises Tapia**](https://github.com/MoisesTapia)
